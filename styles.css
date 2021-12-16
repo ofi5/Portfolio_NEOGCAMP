@@ -2,6 +2,7 @@
 
 :root{
 --primary-color: #9999ff;
+--grey: #b3b3cc;
 }
 
 body {font-family: 'Open Sans', sans-serif;}
@@ -79,3 +80,28 @@ hr{
  .navigation .link-active{
      font-weight: bold;
  }
+
+ /* header */
+
+ .hero{
+     padding: 2rem;
+     
+ }
+
+ .hero .hero-img{
+     max-width: 350px;
+     display: block;
+     margin: auto;
+    
+ }
+
+ .hero .hero-heading{
+    color:var(--grey);
+    padding-top: 1rem;
+ }
+
+
+.hero .heading-inverted{
+    color: var(--primary-color)
+
+}
