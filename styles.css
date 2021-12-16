@@ -6,6 +6,11 @@
 
 body {font-family: 'Open Sans', sans-serif;}
 
+hr{
+    margin:2rem 0rem;
+
+}
+
 /**container **/
 .container {
     padding-left: 1rem;
@@ -33,3 +38,15 @@ body {font-family: 'Open Sans', sans-serif;}
     color: var(--primary-color);
         border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
+}
+/* lists */
+
+.list-non-bullet{
+    list-style: None;
+}
+.list-item-inline {
+    display: inline;
+    padding:0rem 0.5rem;
+    
+}
+
