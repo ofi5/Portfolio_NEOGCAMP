@@ -85,13 +85,14 @@ hr {
 
 .navigation .nav-brand {
     font-weight: bold;
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     font-style: italic;
+    
 
 
 }
 
-.navigation .nav-pills {
+.navigation .nav-pills { 
     text-align: right;
 }
 
@@ -134,15 +135,20 @@ hr {
 .section{
     padding: 2rem;
 }
-.section h1 {
-    text-align: center;
-    
+ .section h1 { 
+         text-align: center;
+}
 
+.section p{
+    text-align: center;
 }
 
 .ow{
     background-color: var(--off-white);
 }
+
+.section div
+{text-align: center;}
 
 /* footer */
 
