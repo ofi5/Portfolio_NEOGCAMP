@@ -12,6 +12,7 @@ body {
 }
 .text{
     color:whitesmoke;
+    text-align: center;
 }
 
 
@@ -32,9 +33,17 @@ body {
     margin: auto;
 }
 
-.container{
+ .container{
     padding: 2rem 2rem;
- ;
+ >
+
+}
+
+.container-center {
+    max-width: 500px;
+    text-align: center;
+    padding: 2rem;
+    margin:auto
 
 }
 
