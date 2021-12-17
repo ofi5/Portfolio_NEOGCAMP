@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Readex+Pro:wght@400;700&display=swap');
+
+:root{
+    --theme-color:#091d91;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+    background-color: var(--theme-color);
+    
+}
+.text{
+    color:whitesmoke;
+}
+
+
+.heading{
+    text-align: center;
+    font-weight: bold;
+}
+
+.hero{
+    padding: 2rem;
+    
+   
+}
+
+.hero .hero-img{
+    max-width: 500px;
+    display: block;
+    margin: auto;
+}
+
+.container{
+    padding: 2rem 2rem;
+ ;
+
+}
+
