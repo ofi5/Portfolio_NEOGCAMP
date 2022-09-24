@@ -5,9 +5,10 @@
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Aboreto', sans-serif;
     margin: 0px;
     background-color: var(--theme-color);
+    padding-bottom: 100px;
     
 }
 .text{
@@ -28,7 +29,7 @@ body {
 }
 
 .hero .hero-img{
-    max-width: 500px;
+    max-width: 700px;
     display: block;
     margin: auto;
 }
@@ -40,7 +41,7 @@ body {
 }
 
 .container-center {
-    max-width: 500px;
+    max-width: 700px;
     text-align: center;
     padding: 2rem;
     margin:auto
