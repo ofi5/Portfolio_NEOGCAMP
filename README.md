@@ -1,6 +1,7 @@
 This is a Portfolio of all the projects which I did as part of Level 0 of NeogCamp.
+My portfolio contain a home page, links project app and their github repo and blogs.
 
-Here's a screenshot and small description of the marks.
+Here's a screenshot and small description of all the marks.
 
 <HR>
 
@@ -50,4 +51,4 @@ Here's a screenshot and small description of the marks.
 ![palindrome](https://user-images.githubusercontent.com/86188587/196307734-1db31c8f-1688-48e2-a260-22ee59b8eba3.jpg)
 
 
-2 CLI BASED QUIZES ARE ALSO PRSENTS WHEN YOU ENTER THE PORTFOLIO TO KNOW MORE ABOUT ME.
+2 CLI BASED QUIZES ARE ALSO PRESENT WHEN YOU ENTER THE PORTFOLIO TO KNOW MORE ABOUT ME.
